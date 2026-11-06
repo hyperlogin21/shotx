@@ -1,6 +1,6 @@
 # ShotX
 
-A tiny native Mac app that takes you from screenshot to annotated image in seconds, all from your keyboard (~550 KB, native Swift).
+A tiny native Mac app that takes you from screenshot to annotated image in seconds, all from your keyboard (about 2 MB, native Swift).
 
 **⌘⇧A** → drag to select an area → annotate → **⏎** copies to the clipboard.
 
